@@ -21,7 +21,7 @@ function setup() {
 }
 
 function draw() {
-  background("white"); 
+  background("black"); 
 
   tri1 = triangle(350, 150, 450, 150, 400, 40);
   tri2 = triangle(216, 162, 306, 162, 261, 50);
